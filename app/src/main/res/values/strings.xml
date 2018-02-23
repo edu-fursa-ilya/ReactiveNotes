@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTodo</string>
+    <string name="test_title">Lorem ipsum dolor sit amet</string>
+    <string name="test_time">10:22</string>
+    <string name="test_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="test_date">10/12/2018</string>
+    <string name="test_message">Made on Earth by humans!</string>
+    <string name="warning_no_rows">Please create your first todo item</string>
+</resources>
